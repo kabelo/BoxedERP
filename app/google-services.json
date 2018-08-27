@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "537289186936",
+    "firebase_url": "https://boxederp.firebaseio.com",
+    "project_id": "boxederp",
+    "storage_bucket": "boxederp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537289186936:android:532c85a1a7965bce",
+        "android_client_info": {
+          "package_name": "za.co.boxedcode.boxederp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537289186936-56kjq3dtfkr3ph72k0skhemnfvb7e2io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.co.boxedcode.boxederp",
+            "certificate_hash": "3cc218d23c6dc6efd3cf979698ca4853fa99208e"
+          }
+        },
+        {
+          "client_id": "537289186936-9fli6k132rerrav3u1huisbep40kja28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMYIXueYcWws2QiBTiJ53W5Dqt6v2w-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537289186936-9fli6k132rerrav3u1huisbep40kja28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
